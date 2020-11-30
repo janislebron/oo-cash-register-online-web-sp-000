@@ -4,7 +4,7 @@ require_relative '../lib/cash_register'
 # Require this file using `require "spec_helper"` to ensure that it is only
 # loaded once.
 #
-# See 
+# See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
   
 end
